@@ -28,14 +28,3 @@ A idéia principal é ter um kanban simples que possa ser implantado em todos os
 
 Caso queira implementar algo no sistema, utilize os padrões do Adianti Framework, ficaremos felizes com sua participação!
 
-## Precisa de melhoria ou ajuda com algum BUG?
-
-<a href="https://github.com/andre-gasparin/AdiantiKanban/issues">issues</a>
-
-
-## Histórico (ChangeLog)
-
-* 1.0.0
-    * Projeto criado
-
-
