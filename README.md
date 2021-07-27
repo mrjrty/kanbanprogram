@@ -37,22 +37,5 @@ Caso queira implementar algo no sistema, utilize os padrões do Adianti Framewor
 
 * 1.0.0
     * Projeto criado
-## Design
-O arquivo de css que altera o kanban do adianti também também tem um git:
-https://github.com/andre-gasparin/adianti-kanban-theme
 
 
-## Meta
-
-André Gasparin – [@andre-gasparin] – andre@gasparimsat.com.br / andre.gasparin@hotmail.com
-
-Distribuído sob a Licença Pública Geral GNU (GPLv3) 
-
-
-## Contributing
-
-1. Faça o _fork_ do projeto (<https://github.com/andre-gasparin/AdiantiKanban/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
-4. _Push_ (`git push origin feature/fooBar`)
-5. Crie um novo _Pull Request_
